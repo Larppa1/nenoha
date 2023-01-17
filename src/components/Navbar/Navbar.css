@@ -1,10 +1,9 @@
-#Navbar {
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-  min-height: 7vh;
-  height: 7vh;
-  max-height: 7vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  z-index: 2;
+.navbar {
+  padding: 0;
 }
+
+@media screen and (width > 768px) {
+  .navbar {
+    padding-inline: 0.5em;
+  }
+} 

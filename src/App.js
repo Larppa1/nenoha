@@ -4,7 +4,7 @@ import './App.css'
 import Subtitle from "./components/Subtitle/Subtitle";
 import Form from "./components/Form/Form";
 import Footer from "./components/Footer/Footer";
-import BackToTopBtn from "./components/BackToTopBtn/BackToTopBtn";
+/* import BackToTopBtn from "./components/BackToTopBtn/BackToTopBtn"; */
 
 export default function App() {
   return (
