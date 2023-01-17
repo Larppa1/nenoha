@@ -60,9 +60,9 @@ input {
   }
   
   #textarea {
-    min-width: 65%;
-    width: 65%;
-    max-width: 65%;
+    min-width: 55%;
+    width: 55%;
+    max-width: 55%;
     min-height: 10vh;
     height: 10vh;
     max-height: 10vh;
